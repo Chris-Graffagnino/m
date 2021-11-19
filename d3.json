@@ -1,7 +1,7 @@
 {
-  "name": "DALIS",
-  "description": "DALIS - by Masterstake stakepool services",
-  "ticker": "DALIS",
-  "homepage": "https://dalispool.com",
+  "name": "Masterstake",
+  "description": "MASTR pool #2 | SundaeSwap ISO",
+  "ticker": "MASTR",
+  "homepage": "https://masterstake.com",
   "extended": "https://data.pooltool.io/md/0874ca1c-2e6b-464d-979b-01b37ff7f571"
 }
